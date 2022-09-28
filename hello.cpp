@@ -1,2 +1,2 @@
 #include<ios>
-main(){puts("Hello World");}
+main(){puts("Hello gajar");}
